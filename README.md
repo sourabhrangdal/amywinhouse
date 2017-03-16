@@ -61,11 +61,8 @@
       <li><strong>2010</strong> - Ronson said in a interview that he liked working with Winehouse because she was blunt when she did not like his work</li>
       <li><strong>2011</strong> - Amy Jade Winehouse died of alcohol poisoning on 23 July 2011, aged 27</li>
       <li><strong>2012</strong> - Her album Back to Black posthumously became, for a time, the UK's best-selling album of the 21st century</li>
-  </ul>
-   <br />     
-   
- 
-    
+      </ul>
+   <br>
     <blockquote><p>Amy Winehouse changed pop music forever, I remember knowing there was hope, and feeling not alone because of her. She lived jazz, she lived the blues.</p>
       <footer><cite>Lady Gaga</cite></footer>
     </blockquote>
