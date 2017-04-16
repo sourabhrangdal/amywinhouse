@@ -23,8 +23,8 @@
   
     </div>
     <div class="container">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
+      <div class="col-xs-1 col-md-1"></div>
+      <div class="col-xs-12 col-md-10">
       <h4>Here's a time line of Amy Winehous's life:</h4>
     <ul>
       <li><strong>1992</strong> - Her grandmother Cynthia suggested she attend the Susi Earnshaw Theatre School</li>
@@ -71,7 +71,7 @@
         <h3><strong>If you have a time, you can read more on her <a href="https://en.wikipedia.org/wiki/Amy_Winehouse"> Wikipedia page</a>.</strong></h3>
         
       </div>
-    <div class="col-md-1"></div>
+    <div class="col-xs-12 col-md-1"></div>
       </div>
     
 </div>
