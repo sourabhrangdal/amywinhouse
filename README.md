@@ -26,6 +26,7 @@
       <div class="col-xs-1 col-md-1"></div>
       <div class="col-xs-12 col-md-10">
       <h4>Here's a time line of Amy Winehous's life:</h4>
+      <h4>Here's a time line of Amy Winehous's life:</h4>
     <ul>
       <li><strong>1992</strong> - Her grandmother Cynthia suggested she attend the Susi Earnshaw Theatre School</li>
       <li><strong>1997</strong> - Winehouse appeared in an episode of The Fast Show</li>
